@@ -1,6 +1,6 @@
 # AI Face Generator using a Deep Convolutional GAN (DCGAN)
 
-# Try the App Demo here: [DEMO](https://dcgan-fake-face-generator.streamlit.app/)
+## Try the App Demo here: [DEMO](https://dcgan-fake-face-generator.streamlit.app/)
 ---
 
 ## Project Overview
