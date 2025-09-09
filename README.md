@@ -82,7 +82,7 @@ streamlit run app.py
 ## Project Files
 `app.py`: The Python script for the Streamlit web application.
 
-`fake_face_generator.ipynb`: The complete, annotated Jupyter Notebook with the data processing, model training, and evaluation process.
+`dcgan_fake_face_generator.ipynb`: The complete, annotated Jupyter Notebook with the data processing, model training, and evaluation process.
 
 `requirements.txt`: A list of necessary Python packages for reproducibility.
 
