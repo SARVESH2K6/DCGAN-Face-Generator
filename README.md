@@ -10,8 +10,8 @@ The project showcases a complete, end-to-end machine learning workflow, from dat
 
 ---
 
-## Visual Demo
-A screenshot of the interactive Streamlit application, where users can generate a new face with a single click.
+## Final Result
+Final Result of the model after 800 epochs
 
 ![Streamlit App Demo](generated_plot_epoch-800.png)
 
