@@ -99,7 +99,7 @@ This project utilizes the Face Mask Lite Dataset, sourced from Kaggle. Proper cr
 
 * **Source**: [Face Mask Lite Dataset on Kaggle](https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset)
 
-* **License**: CC BY-SA 4.0
+* **License**: MIT
 
 
 
