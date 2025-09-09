@@ -12,8 +12,7 @@ The project showcases a complete, end-to-end machine learning workflow, from dat
 ## Visual Demo
 A screenshot of the interactive Streamlit application, where users can generate a new face with a single click.
 
-*(To add your screenshot, place it in a `results/` directory and uncomment the line below)*
-<!-- ![Streamlit App Demo](results/streamlit_demo.png) -->
+![Streamlit App Demo](generated_plot_epoch-800.png)
 
 ---
 
